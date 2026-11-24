@@ -1,7 +1,7 @@
 import subprocess, os, time, sys, datetime
 
 # ================= YOUR CONFIG =================
-SUPABASE_URL      = "https://kybumequlqzstdszcdse.supabase.co"
+SUPABASE_URL      = "https://jseelqffjglpgpsllkfz.supabase.co"
 SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpzZWVscWZmamdscGdwc2xsa2Z6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTUzNjU0ODIsImV4cCI6MjExMDk0MTQ4Mn0.ANOyQFDBKWaT-qOJbr0pXJ_ypsVAPE6kZlnNnj94G1A"
 FRAMERATE         = 10
 CHUNK_MINUTES     = 5
