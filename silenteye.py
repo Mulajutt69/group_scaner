@@ -1,8 +1,8 @@
 import subprocess, os, time, sys, datetime
 
 # ================= YOUR CONFIG =================
-SUPABASE_URL      = "https://yyjpugsiyuksfyomycze.supabase.co"
-SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inl5anB1Z3NpeXVrc2Z5b215Y3plIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODI1NTQzMjEsImV4cCI6MjA5ODEzMDMyMX0.FCcf396lM35oFKDhG4Xx9PGA9EzpH5bvEO0-LcYqJtw"
+SUPABASE_URL      = "https://kybumequlqzstdszcdse.supabase.co"
+SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpzZWVscWZmamdscGdwc2xsa2Z6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTUzNjU0ODIsImV4cCI6MjExMDk0MTQ4Mn0.ANOyQFDBKWaT-qOJbr0pXJ_ypsVAPE6kZlnNnj94G1A"
 FRAMERATE         = 10
 CHUNK_MINUTES     = 5
 MAX_FAILS         = 3   # consecutive real ffmpeg errors before giving up
